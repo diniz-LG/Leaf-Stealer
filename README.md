@@ -25,18 +25,7 @@ A thief of discord accounts and Bitcoin wallets (Captures other logins from site
   2FA Codes
   Computer Hostname
   Metamask Stealer 
-  Exodus Stealer 
-  Files Desktop (.exe, .png, .rar, .bat, .txt)
+  - Exodus Stealer 
+  - Files Desktop (.exe, .png, .rar, .bat, .txt)
 
 - Computer Hostname
-- Instantly logout
-- Disable QR
-- Custom embed
-- Cool code structure
-- Cookies (💎)
-- Password (💎)
-- Cookie Automatic Logger (💎)
-- Metamask stealer (💎)
-- Exodus stealer (💎)
-- Anti-Delete & Anti-Spam (💎)
-- 0/64 Detections (💎)
