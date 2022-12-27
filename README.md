@@ -8,7 +8,7 @@ A thief of discord accounts and Bitcoin wallets (Captures other logins from site
 
 # Functionality 
 ・Discord Login Stealer 👾
-  Username
+  ・Username
   ID
   Token
   Password
