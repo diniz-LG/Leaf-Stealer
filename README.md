@@ -29,4 +29,4 @@ A thief of discord accounts and Bitcoin wallets (Captures other logins from site
   - Exodus Stealer 
   - Files Desktop (.exe, .png, .rar, .bat, .txt)
 
-## <img src="https://cdn.discordapp.com/attachments/1046993144799043625/1058824265903906856/f768dde3c11f8268.jpg" width="1000px">  </h2>
+## <img src="https://cdn.discordapp.com/attachments/1046993144799043625/1058824265903906856/f768dde3c11f8268.jpg" width="500px">  </h2>
