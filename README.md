@@ -1,4 +1,4 @@
-##### [⛏ Telegram](https://t.me/+IXPlSsHhrJA2ZWIx)   [🌎 Support Discord](https://discord.gg/fb537jfh)
+##### [⛏ Telegram](https://t.me/+IXPlSsHhrJA2ZWIx)   [🌎 Support Discord](https://discord.gg/vCcHbGwu2k)
 ### Only Creator
   - diniz
 
