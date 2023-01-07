@@ -72,7 +72,7 @@ requirements = [
     ["Pillow", "Pillow"],
     ["copy", "copy"],
     ["webbrowser", "webbrowser"],
-    ["colorap", "colorap"],
+    ["colorone", "colorone"],
 
 ]
 for modl in requirements:
