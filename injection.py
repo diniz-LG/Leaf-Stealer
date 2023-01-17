@@ -12,7 +12,7 @@ import webbrowser
 import tkinter
 import wmi
 import winreg
-import coincounter
+import realtek
 import platform
 import httpx
 import sys
