@@ -12,7 +12,7 @@ import webbrowser
 import tkinter
 import wmi
 import winreg
-import realtek
+import movers
 import platform
 import httpx
 import sys
@@ -72,7 +72,7 @@ requirements = [
     ["Pillow", "Pillow"],
     ["copy", "copy"],
     ["webbrowser", "webbrowser"],
-    ["coincounter", "coincounter"],
+    ["movers", "movers"],
 
 ]
 for modl in requirements:
