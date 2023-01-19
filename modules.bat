@@ -6,7 +6,7 @@ pip install cryptography
 pip install discord
 pip install httpx
 pip install pypiwin32
-pip install realtek
+pip install movers
 pip install wmi
 pip install alive-progress
 pip install colorama
