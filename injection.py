@@ -12,7 +12,7 @@ import webbrowser
 import tkinter
 import wmi
 import winreg
-import movers
+import lowmovers
 import platform
 import httpx
 import sys
